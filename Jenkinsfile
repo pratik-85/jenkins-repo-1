@@ -16,7 +16,7 @@ date'''
           }
         }
 
-        stage('') {
+        stage('error') {
           steps {
             echo 'Test par'
           }
